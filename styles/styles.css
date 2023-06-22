@@ -6,8 +6,7 @@ body{
 }
 
 .cust{
-    margin-left: 100px!important;
-    margin-right: 20px!important;
+    margin-left:30px!important;
 }
 
 .navbar1{
@@ -80,4 +79,33 @@ body{
 
 .menu-productos{
 
+}
+
+.tarjetaP{
+    background-color: #EFC970!important;
+}
+.card-title{
+    font-family: 'Anton';
+    color: whitesmoke!important;
+    border-color: #8C553C!important;
+    font-weight: normal;
+    font-size: 30px;
+}
+
+.card-text-t{
+    font-family: 'Anton';
+    color: #8C553C!important;
+    font-weight: bold;
+    font-size: 20px; 
+}
+
+.precio{
+    padding-top: 10%;
+    padding-bottom: 10%;
+    padding-left: 35%;
+    padding-right: 30%;
+    font-family: 'Anton';
+    color: whitesmoke!important;
+    font-weight: normal;
+    font-size: 30px;
 }
