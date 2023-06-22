@@ -5,11 +5,33 @@ body{
     background-color: #E05A33!important;
 }
 
+.cust{
+    margin-left: 100px!important;
+    margin-right: 20px!important;
+}
+
+.navbar1{
+    background-color: #8C553C;
+}
+
+.iconsc{
+    color: whitesmoke;
+}
+
+.tnv{
+    color: #EFC970!important;
+    font-family: 'Anton', sans-serif!important;
+    font-size: 30px;
+    font-weight: normal!important;
+}
+
 
   .banner {
     background-color: #E05A33;
     padding-left: 8rem;
     padding-right: 8rem;
+    margin-top: 4rem;
+    margin-bottom: 12rem;
 }
 
 .fila-banner {
@@ -54,4 +76,8 @@ body{
     font-family: 'Roboto';
     color: whitesmoke;
     font-weight: bolder;
+}
+
+.menu-productos{
+
 }
