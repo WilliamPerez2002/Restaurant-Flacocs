@@ -99,6 +99,13 @@ body{
     font-size: 20px; 
 }
 
+.p-cont{
+    margin: 10%;
+    border: #7c7c7c!important;
+    background-color: #7c7c7c!important;
+    border-radius: 30%!important;
+}
+
 .precio{
     padding-top: 10%;
     padding-bottom: 10%;
