@@ -8,6 +8,8 @@ body{
 
   .banner {
     background-color: #E05A33;
+    padding-left: 8rem;
+    padding-right: 8rem;
 }
 
 .fila-banner {
@@ -26,8 +28,9 @@ body{
 
 .btn-primary{
     background-color: #8C553C!important;
-    border-color: white!important;
+    border-color: whitesmoke!important;
     font-family: 'Anton', sans-serif!important;
+    color: #EFC970!important;
     font-weight: normal!important;
 }
 
