@@ -1,0 +1,83 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Anton&family=Kanit:wght@100&family=Roboto:wght@300&display=swap');
+
+body{
+    background-color: #E05A33!important;
+}
+
+.cust{
+    margin-left: 100px!important;
+    margin-right: 20px!important;
+}
+
+.navbar1{
+    background-color: #8C553C;
+}
+
+.iconsc{
+    color: whitesmoke;
+}
+
+.tnv{
+    color: #EFC970!important;
+    font-family: 'Anton', sans-serif!important;
+    font-size: 30px;
+    font-weight: normal!important;
+}
+
+
+  .banner {
+    background-color: #E05A33;
+    padding-left: 8rem;
+    padding-right: 8rem;
+    margin-top: 4rem;
+    margin-bottom: 12rem;
+}
+
+.fila-banner {
+    align-items: center;
+}
+
+.h1 {
+    text-shadow: 1px 1px 2px #7c7c7c;
+}
+
+.img-banner {
+    height: 600px;
+    width: auto;
+}
+
+
+.btn-primary{
+    background-color: #8C553C!important;
+    border-color: whitesmoke!important;
+    font-family: 'Anton', sans-serif!important;
+    color: #EFC970!important;
+    font-weight: normal!important;
+}
+
+.tb1 {
+    font-family: 'Anton', sans-serif;
+    color: whitesmoke;
+    font-weight: bolder;
+    font-size: 80px;
+}
+
+
+.tb2 {
+    font-family: 'Anton', sans-serif;
+    color: #EFC970;    ;
+    font-size: 30px;
+    font-weight: normal
+}
+
+
+.tb3 {
+    font-family: 'Roboto';
+    color: whitesmoke;
+    font-weight: bolder;
+}
+
+.menu-productos{
+
+}
